@@ -10,7 +10,7 @@ int main()
 
     if (pin!=1234)
     {
-        printf("please enter your valid pin");
+        printf("please enter your valid pin\n");
     }
     else if(pin==1234)
     {
