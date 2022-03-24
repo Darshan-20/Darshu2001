@@ -24,7 +24,7 @@ int main()
                     printf("%d",acc);
                     break;
 
-            default: printf("Ïnvalid Choice\n");
+            default: printf("Ïnvalid Choice : Please enter a correct choice\n");
         }
     }
 
