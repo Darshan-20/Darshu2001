@@ -14,7 +14,7 @@ int main()
     }
     else if(pin==1234)
     {
-        printf("*******welcome*******");
+        printf("*******welcome********");
         printf("1.savings\n 2.current\n");
         printf("enter the type of account\n");
         scanf("%d",& acc);
